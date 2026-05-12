@@ -1,5 +1,6 @@
 # 🚀 InsightCrew — Multi-Agent Research & Content Engine
 
+
 > A  Agentic AI app that replaces hours of research with 3 autonomous AI agents working in sequence. Built 100% free and deployed publicly.
 
 ![InsightCrew Demo](https://img.shields.io/badge/Built%20With-CrewAI%20%7C%20Gemini%202.0%20%7C%20Tavily-blueviolet?style=for-the-badge)
@@ -99,4 +100,4 @@ Use this structure for maximum reach:
 
 ---
 
-*Made with ❤️ — Star ⭐ this repo if it helped you!*
+Made by Yeshita Motwani
